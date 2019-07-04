@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29020.237
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestBank.Application", "TestBank.Application", "{9C5D6333-0A0C-46A3-AC73-2A5AD73D1CA8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestBank.Domain", "TestBank.Domain", "{AA888C2A-2A89-4F80-8E4E-886ACCF38F6F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestBank.Infra.Data", "TestBank.Infra.Data", "{A9A9805C-73E2-4902-92C7-35D6B356E59F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestBank.Infra.IoC", "TestBank.Infra.IoC", "{BB8A86E0-F6A6-48E4-AF9C-B00C24757E41}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestBank.UI.MVC", "TestBank.UI.MVC", "{9536650B-4904-4D77-9111-3F02933B67FE}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
